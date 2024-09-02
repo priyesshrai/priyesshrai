@@ -4,6 +4,12 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** based in Varana
 # 💫 About Me:
 🔭I’m currently working as a Full Stack Developer.<br>🌱I’m learning Blender for 3D modeling and animation.<br>👨‍💻 I’m interested in building 3d scalable web apps.<br>📫 How to reach me: priyeshrai369@gmail.com<br>🌍 I love contributing to open source projects and sharing knowledge with the community.<br>
 
+## 💼 Skills
+
+- **Languages:** JavaScript, HTML, CSS
+- **Frameworks:** React, Next.js, Node.js
+- **Tools & Platforms:** Git, Vite, GSAP, MERN Stack
+- **Others:** Blender, API integration, Performance optimization
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/priyeshraii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/priyesh-rai) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@PriyeshRai555) 
@@ -21,25 +27,5 @@ Welcome to my GitHub profile! I'm a passionate **Web Developer** based in Varana
 ---
 [![](https://visitcount.itsvg.in/api?id=priyeshrai369&icon=10&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 💼 Skills
 
-- **Languages:** JavaScript, HTML, CSS
-- **Frameworks:** React, Next.js, Node.js
-- **Tools & Platforms:** Git, Vite, GSAP, MERN Stack
-- **Others:** Blender, API integration, Performance optimization
 
-## 🔗 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Instagram](https://www.instagram.com/your-profile)
-- [Personal Blog/Website](https://your-website.com)
-
-## 📈 GitHub Stats
-
-![Priyesh Rai's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyeshRai369&show_icons=true&theme=radical)
-
-## ✍️ Quote of the Day
-
-_"The best way to predict the future is to invent it." - Alan Kay_
