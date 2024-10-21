@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Priyesh Rai!
+# 👋 Hi, I'm Priyessh Rai!
 
 Welcome to my GitHub profile! I'm a passionate **Web Developer** based in Varanasi with a knack for creating responsive and optimized web applications.
 # 💫 About Me:
